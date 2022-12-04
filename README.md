@@ -1,0 +1,2 @@
+# learnMyJavaScript
+myStudyingCode
